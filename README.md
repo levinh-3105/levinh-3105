@@ -1,4 +1,6 @@
-## What :>??
+<div align="center">
+  <img src="animated-koi-fish.gif" width="100%" />
+</div>
 
 ## My 🐢
 
@@ -10,6 +12,3 @@
   />
 </a>
 
-  ## My 🎏
-
-![](animated-koi-fish.gif)
