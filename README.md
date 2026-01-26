@@ -55,6 +55,16 @@
          alt="Verilog" 
          title="Verilog" />
   </a>
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Ghidra-EF1C25?style=for-the-badge&logo=ghidra&logoColor=white" 
+       alt="Ghidra" 
+       title="Ghidra" />
+  </a>
+  <a href="https://x64dbg.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/x64dbg-4E9A06?style=for-the-badge&logoColor=white" 
+       alt="x64dbg" 
+       title="x64dbg" />
+</a>
 </p>
 
 ---
